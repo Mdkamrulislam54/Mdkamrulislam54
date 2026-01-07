@@ -85,28 +85,7 @@ Developed Logistic Regression and Random Forest Classifier models to predict ban
 ### 🎯 [Bank Customer Segmentation](https://github.com/Mdkamrulislam54)
 Segmented bank customers using K-Means Clustering and recommended potential new products/services for each segment.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdkamrulislam54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdkamrulislam54&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdkamrulislam54&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mdkamrulislam54&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</div>
-
----
 
 ## 🎓 Certifications
 
