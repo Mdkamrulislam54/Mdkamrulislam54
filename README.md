@@ -70,19 +70,19 @@ I'm a **Market Researcher & Data Analyst** with a strong foundation in **Statist
 
 ## 🚀 Featured Projects
 
-### 📊 [Hospitality Domain Dashboard using Power BI]([https://project-link-here](https://github.com/Mdkamrulislam54/Hospitality-Domain-dashboard)
+### 📊 [Hospitality Domain Dashboard using Power BI](https://github.com/Mdkamrulislam54/Hospitality-Domain-dashboard)
 Built an interactive dashboard using Power BI to analyze Atliq Hospitality Domain dataset with data cleaning and DAX calculations.
 
-### 🛍️ [Customer Behaviour with RFM Segmentation](https://github.com/Mdkamrulislam54)
+### 🛍️ [Customer Behaviour with RFM Segmentation](https://github.com/Mdkamrulislam54/RFM-Segmentation)
 Unlock customer behavior patterns through RFM analysis using MySQL to segment customers based on Recency, Frequency, and Monetary values.
 
-### 📈 [Customer Cohort Analysis](https://github.com/Mdkamrulislam54)
+### 📈 [Customer Cohort Analysis](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL)
 Analyzed Customer Retention, Churn Rate, and Customer Lifetime Value using MySQL for strategic business decisions.
 
-### 🤖 [Bank Churn Customer Prediction](https://github.com/Mdkamrulislam54)
+### 🤖 [Bank Churn Customer Prediction](https://github.com/Mdkamrulislam54/Logistic-Regression-and-Random-Forest-Classifier-for-Bank-Churn-Customer-Prediction)
 Developed Logistic Regression and Random Forest Classifier models to predict bank customer churn with data cleaning and exploration.
 
-### 🎯 [Bank Customer Segmentation](https://github.com/Mdkamrulislam54)
+### 🎯 [Bank Customer Segmentation](https://github.com/Mdkamrulislam54/Unsupervised-Learning--Bank-Customer-Segmentation-using-KMeans-Clustering)
 Segmented bank customers using K-Means Clustering and recommended potential new products/services for each segment.
 
 ---
