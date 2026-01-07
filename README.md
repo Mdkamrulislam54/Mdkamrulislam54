@@ -1,7 +1,7 @@
 # Hi, I'm Md. Kamrul Islam 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Kamrul+Islam;Market+Researcher+%26+Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F85149&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Kamrul+Islam;Market+Researcher+%26+Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
 </div>
 
 <p align="center">
