@@ -100,14 +100,6 @@ Segmented bank customers using K-Means Clustering and recommended potential new 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mdkamrulislam54&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</div>
-
----
-
 ## 🎓 Certifications
 
 ✅ **Data Analytics and Power BI Career Path** - Interactive Cares  
