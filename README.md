@@ -70,7 +70,7 @@ I'm a **Market Researcher & Data Analyst** with a strong foundation in **Statist
 
 ## 🚀 Featured Projects
 
-### 📊 [Hospitality Domain Dashboard using Power BI](https://project-link-here)
+### 📊 [Hospitality Domain Dashboard using Power BI]([https://project-link-here](https://github.com/Mdkamrulislam54/Hospitality-Domain-dashboard))
 Built an interactive dashboard using Power BI to analyze Atliq Hospitality Domain dataset with data cleaning and DAX calculations.
 
 ### 🛍️ [Customer Behaviour with RFM Segmentation](https://github.com/Mdkamrulislam54)
