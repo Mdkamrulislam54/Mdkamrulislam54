@@ -1,4 +1,4 @@
-# Hi, I'm Md. Kamrul Islam 👋
+# Hi, I'm Md. Kamrul Islam 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F85149&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Kamrul+Islam;Data+Analyst;Turning+Data+into+Insights;Power+BI+%7C+Python+%7C+SQL+Server+%7C+Azure" alt="Typing SVG" />
